@@ -17,4 +17,4 @@
 - **스타일링(Styling)**: Modern CSS (반응형 웹(Responsive Web))
 
 ## 👨‍💻 개발자 (Author)
-- **만든이(Created by)**: Thomas Park
+- **만든이(Created by)**: Thomas Park,Ph.D.
